@@ -10,3 +10,5 @@ Please report vulnerabilities privately via GitHub Security Advisories or by con
 Do not open public issues for undisclosed vulnerabilities.
 
 We will acknowledge receipt and provide next steps as quickly as possible.
+
+For private disclosure, use GitHub Security Advisories: [https://github.com/gr8monk3ys/awesome-privacy/security/advisories](https://github.com/gr8monk3ys/awesome-privacy/security/advisories).
